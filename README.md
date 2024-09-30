@@ -1,9 +1,6 @@
 # 📊 Trabajo Practico Proyecto-JPA-con-ENVERS
 Zalazar Valentín
 
-En este repositorio se encuentra el trabajo práctico de Proyecto JPA ENVERS, para poder visualizarlo ingrese a:
-
-https://github.com/valen049/TP4-DESARROLLO-ENVERS
 En esta ocasión, hemos integrado la funcionalidad de auditoría utilizando Hibernate Envers, lo que nos permite llevar un registro de los cambios en las entidades. 
 Este proyecto fue desarrollado de forma individual, aprovechando los videos del canal ColmenaTec y un proyecto base proporcionado por el profesor Alberto Cortez. También se nos proporcionó el archivo persistence.xml y las dependencias necesarias para la correcta ejecución del proyecto.
 
